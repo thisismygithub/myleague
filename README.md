@@ -1,0 +1,4 @@
+myleague
+========
+
+create myleague

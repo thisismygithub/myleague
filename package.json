@@ -1,0 +1,27 @@
+{
+  "name": "myleague",
+  "version": "0.0.0",
+  "description": "create my league",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thisismygithub/myleague.git"
+  },
+  "keywords": [
+    "myleague"
+  ],
+  "author": "marsen lin",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f359d5de7a0fea0ce0d86f5abc6ea986e57ba0ad",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.4.8"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
